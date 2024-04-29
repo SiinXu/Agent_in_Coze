@@ -5,8 +5,6 @@
 
  github ：[Agent_in_Coze](https://github.com/SiinXu/Agent_in_Coze)
 
- https://github.com/SiinXu/Agent_in_Coze
-
  **主要内容预计如下：**
 
  1. 分享 Coze /扣子 里有趣的 Bot 和 plugin、workflow
